@@ -1,6 +1,17 @@
 /*
 *************************************************************************************************
---AJncljfsnvbfnldfn
+--AJncljfsnvb
+
+adbfbwfjhw 
+érerer
+ter
+terv t 
+et
+erter
+retr
+
+
+
 @Build Stage: Addresses__c ---shfhseijg
 @Description: Builds Staging Table for Addresses__c sObject.
 
